@@ -1,3 +1,5 @@
+> 🇬🇧 **English version:** [README_EN.md](./README_EN.md)
+
 # Energy Stability Index
 
 ## Version française de travail
